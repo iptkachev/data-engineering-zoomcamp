@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "esoteric_grace"}, "timestamp": 1708114363, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "spring_knight"}, "timestamp": 1708117555, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "colossal_elixir"}, "timestamp": 1708119435, "user": null}
