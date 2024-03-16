@@ -14,7 +14,6 @@ order by avg_time desc
 limit 1;
 
 # 3
-create materialized view frequent_pu_zone as 
 WITH t AS (
     SELECT 
       MAX(tpep_pickup_datetime) AS finish, 
